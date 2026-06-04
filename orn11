@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    colspan hücrelerş yatada sutun olarak birleşitrir
+    rowspan hücreleri dikeyde birleştirir
+    <table border="1">
+
+
+        <tr>
+            <th>Adsoyad</th>
+            <th>yaş</th>
+            <th>meslek</th>
+
+        </tr>
+
+        <tr>
+            <th colspan="3">burçlar tablosu </th>
+        </tr>
+
+        <tr>
+            <th rowspan="2">
+              ateş burçları
+            </th>
+
+
+
+
+        </tr>
+
+    </table>
+
+
+
+</body>
+</html>
