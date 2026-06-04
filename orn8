@@ -1,0 +1,16 @@
+<body>
+      <h1 class="title">Hello World!</h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+
+  <form action="" method="get" accept-charset="utf-8">
+    
+  <h1>Sitemiz hakkında bilgileriniz:</h1>
+  
+  <input type="checkbox" name="bilgi1" id="bilgileriniz" />Sitenizi beğendim <br>
+  <input type="checkbox" name="bilgi2" id="bilgileriniz" />Aradığımı buldum <br>
+  <input type="checkbox" name="bilgi3" id="bilgileriniz" />Bilgiler ayrıntılı<br>
+  <input type="checkbox" name="bilgi4" id="bilgileriniz" />Siteniz hızlı<br>
+  
+  </form>
+  </body>
