@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+      <ol>
+        <li>Kitap
+            <ul>
+              <li>Çocuk Kitapları</li>
+              <li>Eğitim</li>
+              <li>Eğlence-Mizah</li>
+              <li>Hobi</li>
+            </ul>
+        </li>
+        <li>Müzik
+            <ul>
+              <li>Yabancı Müzik</li>
+              <li>Yerli Müzik</li>
+            </ul>
+        </li>
+        <li>Film
+            <ul>
+              <li>Yabancı Film</li>
+              <li>Yerli Müzik</li>
+            </ul>
+        </li>
+        <li>Diğer
+            <ul>
+              <li>Aksesuar</li>
+              <li>CD</li>
+              <li>Oyuncak</li>
+              <li>Poster</li>
+              <li>Teknoloji</li>
+            </ul>
+        </li>
+        <li>E-Ürünler
+            <ul>
+              <li>E-Dergi</li>
+              <li>E-Kitap</li>
+              <li>E-Gazate</li>
+            </ul>
+        </li>
+      </ol>
+  </body>
+</html>
