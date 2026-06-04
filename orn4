@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <ol>
+        <li>html5</li>
+        <li>css</li>
+        <li>mssql</li>
+
+
+    </ol>
+
+
+
+
+    <ol start="7" type="a">
+
+        <li>html5</li>
+        <li>css</li>
+        <li>mssql</li>
+
+    </ol>
+
+
+    <ul type="circle">
+
+        <li>html5</li>
+        <li>css</li>
+        <li>mssql</li>
+
+    </ul>
+
+    <ol>
+      <li value="10">Elma</li>
+        <li>armut</li>
+        <li>kiraz</li>
+        <li value="54">mandalina</li>
+        <li>erik</li>
+
+
+    </ol>
+
+
+
+
+
+</body>
+</html>
