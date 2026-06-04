@@ -1,0 +1,45 @@
+
+<html>
+<head>
+<title>Liste Örnekleri</title>
+</head>
+
+<body>
+<ol>
+  <li>Sıcak İçecekler
+      <ol type = "I">
+           <li>Çay Çeşitleri</li>
+        <ol type = "a">
+              <li>Siyah Çay</li>
+              <li>Yeşil Çay</li>
+              <li>Bitki Çay</li>
+        </ol>
+           <li>Kahve Çeşitleri</li>
+        <ol type = "a">
+              <li>Türk Kahvesi</li>
+              <li>Americano</li>
+              <li>Filtre Kahve</li>
+              <li>Nescafe</li>
+        </ol>
+           <li>Sıcak Çikolata</li>
+      </ol>
+   </li>
+   
+   <li>Soğuk İçecekler
+       <ol type = "i">
+           <li>Meyve suları</li>
+              <!-- listesiz bir şekilde meyve sularını listeleme yaptık. -->
+              <ul>
+              <li>Vişne</li>
+              <li>Karışık</li>
+              <li>Şeftali</li>
+              <li>Elma</li>
+              </ul>
+           </li>
+
+           <li>Limonata</li>
+        </ol>
+    </li>
+</ol>
+</body>
+</html>
