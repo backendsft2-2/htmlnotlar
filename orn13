@@ -1,0 +1,54 @@
+
+<html>
+<head>
+<title>Periyodik Element Tablosu</title>
+</head>
+
+<body>
+
+<table border = "1">
+<tr colspan= "7">
+   <th>I</th>
+   <th>II</th>
+   <th>III</th>
+   <th>IV</th>
+   <th>V</th>
+   <th>VI</th>
+   <th>VII</th>
+</tr>
+
+<tr>
+   <th>H</th>
+   <th></th>
+   <th rowspan = "3" colspan ="3">Periyodik Element Tablosu</th>
+   <th></th>
+   <th>He</th>
+</tr>
+
+<tr>
+   <th>Li</th>
+   <th>Be</th>
+   <th>B</th>
+   <th>Ne</th>
+</tr>
+
+<tr>
+   <th>Na</th>
+   <th>Mg</th>
+   <th>Al</th>
+   <th>Ar</th>
+</tr>
+
+<tr>
+   <th>K</th>
+   <th>Ca</th>
+   <th>Sc</th>
+   <th>T</th>
+   <th>V</th>
+   <th>Ga</th>
+   <th>Kr</th>
+</tr>
+
+</table>
+</body>
+</html>
