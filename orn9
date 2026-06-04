@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form> Doğum tarihi
+        <select name="il">
+            <optgroup label="Marmara">
+                <option>istanbul</option>
+                <option>balıkkesir</option>
+                <option>sakarya</option>
+
+            </optgroup>
+
+
+            <optgroup label="Karadeniz">
+                <option>sinop</option>
+                <option>kastamonu</option>
+                <option>trabzon</option>
+                <option>sivas</option>
+
+            </optgroup>
+
+
+
+
+
+
+        </select>
+    
+    
+    
+    </form>
+
+
+
+
+
+
+</body>
+</html>
