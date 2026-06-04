@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+        div {
+            width: 200px;
+            height: 200px;
+            float:left;
+        }
+
+        img {
+            width: 100px;
+            height: 80px;
+        }
+
+        .peri {
+            background-color: brown;
+            color: white;
+            float: left;
+        }
+
+        #orni {
+            background-color: aqua;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="peri">
+        p>ornitorenk perinin normal bir ornitorenkten farkı şapkası olması ve keskin gözleridir.</p>
+        <img src="https://pbs.twimg.com/profile_images/2805122085/1ee8ed1c4bc212023acd480e28593b89_400x400.jpeg" alt="" />
+    </div>
+
+    <div class="peri">
+        <p>ornitorenk perinin normal bir ornitorenkten farkı şapkası olması ve keskin gözleridir.</p>
+        <img src="https://pbs.twimg.com/profile_images/2805122085/1ee8ed1c4bc212023acd480e28593b89_400x400.jpeg" alt="" />
+    </div>
+
+
+    <div class="peri">
+        <p>ornitorenk perinin normal bir ornitorenkten farkı şapkası olması ve keskin gözleridir.</p>
+        <img src="https://pbs.twimg.com/profile_images/2805122085/1ee8ed1c4bc212023acd480e28593b89_400x400.jpeg" alt="" />
+    </div>
+
+
+    <div class="peri">
+        <p>ornitorenk perinin normal bir ornitorenkten farkı şapkası olması ve keskin gözleridir.</p>
+        <img src="https://pbs.twimg.com/profile_images/2805122085/1ee8ed1c4bc212023acd480e28593b89_400x400.jpeg" alt="" />
+    </div>
+    <br /><br />    <br /><br />    <br /><br />    <br /><br />    <br /><br />    <br /><br />
+
+    <div id="orni">
+        <p>bu normal bir ornitoreng. karada ve suda yaşarlar. zehirlidir.</p>
+        <img src="https://e7.pngegg.com/pngimages/994/342/png-clipart-perry-the-platypus-candace-flynn-jeremy-johnson-ferb-fletcher-phineas-flynn-platypus-orange-fauna-thumbnail.png" alt="" />
+    </div>
+
+    <div id="orni">
+        <p>bu normal bir ornitoreng. karada ve suda yaşarlar. zehirlidir.</p>
+        <img src="https://e7.pngegg.com/pngimages/994/342/png-clipart-perry-the-platypus-candace-flynn-jeremy-johnson-ferb-fletcher-phineas-flynn-platypus-orange-fauna-thumbnail.png" alt="" />
+    </div>
+
+    <div id="orni">
+        <p>bu normal bir ornitoreng. karada ve suda yaşarlar. zehirlidir.</p>
+        <img src="https://e7.pngegg.com/pngimages/994/342/png-clipart-perry-the-platypus-candace-flynn-jeremy-johnson-ferb-fletcher-phineas-flynn-platypus-orange-fauna-thumbnail.png" alt="" />
+    </div>
+</body>
+</html>
