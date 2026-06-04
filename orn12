@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <hr>
+
+    <label>1.işlemin durumu</label><br>
+    <progress value="20" min="5" max="100"></progress><br>
+    <label>2.işlemin durumu</label><br>
+    <progress value="40" min="5" max="100"></progress><br>
+    <label>3.işlemin durumu</label><br>
+    <progress value="60" min="5" max="100"></progress><br>
+
+    <hr>
+</body>
+</html>
