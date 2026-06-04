@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tablolar oluşturma</title>
+</head>
+<body>
+    <table border="1" bordercolor="Red" bgcolor="yellow">
+        <tr>
+            <td>fen</td>
+            <td>fizik</td>
+            <td>biyoloji</td>
+
+
+        </tr>
+
+        <tr>
+            <td>c#</td>
+            <td>mssql</td>
+            <td>html</td>
+
+
+        </tr>
+
+    </table> 
+
+
+
+
+
+
+
+</body>
+</html>
