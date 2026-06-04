@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+
+     body{
+         background-color:blanchedalmond;
+         background-image:url(resim) ;
+     }
+
+    </style>
+
+
+
+</head>
+<body>
+    <p   >hfgfgfhgjfgjhfgjfbjdfg
+    gfjkhdfjkghfdjkghfdjkghfdjkghfdjkghfdjk
+    fgjfhdjkghfdjkghdfjkghjkdfhgjkfdhgjkfhgjkfhgjk</p>
+</body>
+</html>
