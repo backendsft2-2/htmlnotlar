@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>yazı stilleri ile ilgili etiketleri </h1>
+    <br />
+    <b>kalın yazar</b>
+    <i>italic olmasno sağlar</i>
+    <hr />
+    <em>eğik gösterilmesini sağlar</em>
+    <small>yazı küçük göster</small>
+    <ins>altı çizgili
+    </ins>
+    <del>üzeri çizgili şekilde yazıyı çıktı veriri</del>
+    <strong>yazı kalın </strong>
+
+    <p><sup>yazının üstünde  gösteren etkiket </sup></p>
+</body>
+</html>
