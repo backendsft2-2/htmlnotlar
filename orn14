@@ -1,0 +1,83 @@
+
+<html>
+<head>
+<title>Kullanıcı Bilgileri</title>
+</head>
+
+<body>
+<form>
+<fieldset>
+<legend>Kullanıcı Bilgileri</legend>
+
+<table>
+<tr>
+  <th>Ad:</th><th><input type = "text" size = "10"></th>
+</tr>
+<tr>
+  <th>SoyAd:</th><th><input type = "text" size = "10"></th>
+</tr>
+<tr>
+  <th>Şifre:</th><th><input type = "password" size = "10"></th>
+</tr>
+<tr>
+  <th>Cinsiyetiniz:</th><th><input type = "radio" 
+  name = "cinsiyet">Erkek</th>
+  <th><input type = "radio" 
+  name = "cinsiyet">Kadın</th>
+</tr>
+
+<tr>
+  <th>Bildiğiniz Diller:</th><th><input type = "checkbox" 
+  name = "dil">İngilizce</th>
+  <th><input type = "checkbox" 
+  name = "dil">Almanca</th>
+  <th><input type = "checkbox" 
+  name = "dil">Fransız</th>
+</tr>
+
+<tr>
+  <th>Bildiğiniz Yazılım Dilleri:</th><th><input type = "checkbox" 
+  name = "yazilimdil">C#</th>
+  <th><input type = "checkbox" 
+  name = "yazilimdil">JAVA</th>
+  <th><input type = "checkbox" 
+  name = "yazilimdil">PYTHON</th>
+  <th><input type = "checkbox" 
+  name = "yazilimdil">C++</th>
+</tr>
+
+<tr>
+<th>Yaşadığınız İl:</th>
+<th><select>
+   <option>İstanbul</option>
+   <option>Ankara</option>
+   <option>Antalya</option>
+   <option>Bursa</option>
+   <option>Sivas</option>
+   <option>Adıyaman</option>
+   <option>İzmir</option>
+   <option>Çanakkale</option>
+</th>
+</tr> 
+
+<tr>
+<textarea rows = "5" cols ="20">Adresiniz:
+</textarea>
+</tr>
+
+
+<tr>
+<th><input type ="submit" value ="Gönder"></th>
+<th><input type = "reset" value = "Temizle"></th>
+</tr>
+
+</table>
+
+</fieldset>
+
+</form>
+
+</body>
+
+
+</html>
